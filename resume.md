@@ -9,11 +9,9 @@
 
 Skilled in **data engineering**, **data governance**, **data stewardship**, and **digital transformation of laboratories**.  
 Member of the **Polish Space Technology Cluster**. Combining strong IT skills with scientific rigor and compliance mindset.
-
-
-
-PhD in Physics • 15+ years of experience in laboratory environments and scientific research (bio/chemical/agro/medical).
-Entrepreneur (B2B) since 2020  
+---
+PhD in Physics || 15+ years of experience in laboratory environments and scientific research (bio/chemical/agro/medical).
+|| Entrepreneur (B2B) since 2020  
 ---
 
 ## 💼 Professional Experience
