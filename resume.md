@@ -1,6 +1,6 @@
 # Radosław Szlązak, PhD
 📍 Poland 
-🔗 [LinkedIn](https://linkedin.com/in/radoslaw-szlazak) | 🔬 [Google Scholar](https://scholar.google.com/citations?user=gUsC89YAAAAJ) | 🧬 ORCID: 0000-0003-0871-2427  
+🔗 [LinkedIn](https://linkedin.com/in/radoslaw-szlazak) | 🔬 [Google Scholar](https://scholar.google.com/citations?user=gUsC89YAAAAJ) | 🧬 [ORCID: 0000-0003-0871-2427](https://orcid.org/0000-0003-0871-2427)  
 
 ---
 
@@ -14,7 +14,7 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional experience
 
 ### **MarTech Data Analyst** | *Data Must Flow*  
 📅 _Nov 2024 – Present_  
@@ -82,15 +82,15 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 
 ---
 
-## 🧪 Academic Background
+## 🧪 Education background
 
 ### **PhD in Physics**  
 📍 Maria Curie-Skłodowska University, Lublin | _2011–2016_  
 - Dissertation: _Spectroscopic studies of metallic nanostructures interaction with biomolecules_  
 - Research: UV-Vis, Fluorescence, FTIR, Raman, AFM, HPLC, DSSC  
-- Project: "Molecular Spectroscopy for Biomedical Studies"
+- International project: "Molecular Spectroscopy for Biomedical Studies"
 
-### **MSc in Physics (Applied)**  
+### **MSc in Physics (Applied/Experimental)**  
 📍 UMCS, Lublin | _2009–2011_  
 - Thesis: _Terahertz Radiation – Generation and Applications_
 
@@ -101,7 +101,7 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 
 ---
 
-## 📊 Recent Certifications
+## 📊 Recent certifications
 
 - `2025` **Data engineering foundations** – Astronomer
 - `2025` **Data Analytics**, **Data governance**, **Data warehouses**
@@ -115,7 +115,7 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 
 ---
 
-## 🔗 Notable Projects & Collaborations
+## 🔗 Notable projects & collaborations
 
 - **Polish Space Technology Cluster** – Member since 2023  
 - **ELBARA / Institute of Agrophysics** – Remote sensing, soil moisture, data science 
@@ -127,9 +127,9 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 
 ---
 
-## 🧠 Skills Snapshot
+## 🧠 Skills snapshot
 
-**Tech Stack:** Python, SQL, BigQuery, GA4, GTM, Airflow, Matomo, Azure, Proxmox, PowerShell, C#, MySQL, PHP, Linux, WordPress  
+**Tech Stack:** Python, SQL, BigQuery, GA4, GTM, Looker Studio, Airflow, Matomo, Azure, Proxmox, PowerShell, C#, MySQL, PHP, Linux, WordPress  
 **Data Areas:** Data Engineering, Data Science, Data Analysis, Data Governance, Stewardship, GxP compliance  
 **Lab Tools:** LIMS, RT-PCR, GC, UV-VIS, FTIR, HPLC, DSSC, Spectroscopy, Autoclaves  
 **Methodologies:** Agile, GxP, ISO 17025, GLP, Data Quality & Integrity, ALCOA++  
