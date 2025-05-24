@@ -130,9 +130,13 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 ## 🧠 Skills snapshot
 
 **`Tech Stack:`** Python, SQL, BigQuery, GA4, GTM, Looker Studio, Airflow, Matomo, Azure, Proxmox, PowerShell, C#, MySQL, PHP, Linux, WordPress  
+
 **`Data Areas:`** Data Engineering, Data Science, Data Analysis, Data Governance, Stewardship, GxP compliance  
+
 **`Lab Tools:`** LIMS, RT-PCR, GC, UV-VIS, FTIR, HPLC, DSSC, Spectroscopy, Autoclaves  
-**`Methodologies:`** Agile, GxP, ISO 17025, GLP, Data Quality & Integrity, ALCOA++  
+
+**`Methodologies:`** Agile, GxP, ISO 17025, GLP, Data Quality & Integrity, ITIL, ALCOA++  
+
 **`Soft Skills:`** Scientific communication, Training, Data driven research, Knowledge transfer, Solving problems, Analytical thinking, Interdisciplinary collaboration
 
 ---
