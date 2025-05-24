@@ -43,13 +43,13 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 - Led GxP-compliant process mapping and system validation  
 - Created visual and written materials for marketing and training  
 
-### **Data Analyst** | *Markonline*  
+### **Data Analyst** | *MarkOnline*  
 📅 _Jan 2023 – Dec 2024_  
 - Conducted advanced **SQL** queries (BigQuery, CloudSQL)  
 - Automated data processing using **Python**  
 - Evaluated marketing effectiveness and UX using web analytics  
 
-### **Laboratory Manager** | *Planetmed Medical Diagnostics*  
+### **Laboratory Manager** | *Planetmed Medical Diagnostic Laboratory*  
 📅 _Mar 2022 – May 2023_  
 - Developed SOPs and validated methods (RT-PCR, antigen, UV-VIS)  
 - Supervised **ISO 17025**, **GLP** implementation and documentation  
@@ -58,13 +58,13 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 
 ### **Head of R&D Department** | *Genomika Laboratory*  
 📅 _Nov 2020 – Dec 2021_  
-- Directed molecular diagnostics workflows  
+- Directed molecular diagnostics (RT-PCR) workflows  
 - Managed equipment, vendors, LIMS configuration  
 - Focused on quality assurance, method optimization, team training  
 
-### **Scientific Specialist** | *ITOX Institute of Toxicology*  
+### **Scientific Specialist** | *ITOX Institute of Toxicology and Forensic Medicine*  
 📅 _Sep 2018 – Dec 2020_  
-- Supported forensic ethanol analysis (GC)  
+- Supported forensic ethanol analysis (Gas chromatography)  
 - Handled internal systems and marketing assets  
 
 ### **Chief Research Officer** | *ReFOLDit*  
@@ -103,25 +103,26 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 
 ## 📊 Recent Certifications
 
-- `2025` **Data Engineering Foundations** – Astronomer  
+- `2025` **Data engineering foundations** – Astronomer
+- `2025` **Data Analytics**, **Data governance**, **Data warehouses**
 - `2025` **Good Clinical Practice ICH E6 (R2)** – Polish Medical Research Agency  
 - `2025` **Introduction to LIMS & Other Info Systems** – CDC (P.A.C.E.®)  
 - `2025` **AIDEAS – AI in Business & Innovation** – Wrocław University of Technology  
-- `2024` **Data Stewardship (Beginner/Intermediate)** – Navoica  
-- `2023` **Practical Python**, **AI**, **Cybersecurity**, **Diagnostics**  
-- `2022` **R&D Planning**, **Manual Software Testing**, **Lab Management**  
+- `2024` **Data stewardship (Beginner/Intermediate)** – Navoica  
+- `2023` **Practical Python**, **AI**, **Cybersecurity**, **Quality control in laboratory**  
+- `2022` **R&D Planning**, **Manual software testing**, **Lab Management**  
 - `2021–2020` **Water Testing**, **Disinfection**, **ISO 17025**, **GLP**, **Sterilization**
 
 ---
 
 ## 🔗 Notable Projects & Collaborations
 
-- **Polish Space Technology Cluster** – Since 2023  
+- **Polish Space Technology Cluster** – Member since 2023  
 - **ELBARA / Institute of Agrophysics** – Remote sensing, soil moisture, data science 
 - **Lushrooms** – Functional mushroom supplement R&D (subcritical water extraction)  
 - **Artur Polak Consulting** – Data scoring, analytics (GA, GTM, BigQuery)  
 - **Deozon** – COVID-19 disinfection systems (UV, ozone)  
-- **MoznaPrzezczytac.pl** – Book review platform turned foundation  
+- **MoznaPrzezczytac.pl** – Book review platform and foundation  
 - **Polish Nursing Research 2019** – Conference IT & branding
 
 ---
@@ -130,9 +131,9 @@ _PhD in Physics · 15+ years in scientific & laboratory environments (bio/chemic
 
 **Tech Stack:** Python, SQL, BigQuery, GA4, GTM, Airflow, Matomo, Azure, Proxmox, PowerShell, C#, MySQL, PHP, Linux, WordPress  
 **Data Areas:** Data Engineering, Data Science, Data Analysis, Data Governance, Stewardship, GxP compliance  
-**Lab Tools:** LIMS, RT-PCR, GC, UV-VIS, HPLC, DSSC, Spectroscopy, Autoclaves  
-**Methodologies:** Agile, GxP, ISO 17025, GLP, Data Quality & Integrity  
-**Soft Skills:** Scientific Communication, Training, Knowledge Transfer, Interdisciplinary Collaboration
+**Lab Tools:** LIMS, RT-PCR, GC, UV-VIS, FTIR, HPLC, DSSC, Spectroscopy, Autoclaves  
+**Methodologies:** Agile, GxP, ISO 17025, GLP, Data Quality & Integrity, ALCOA++  
+**Soft Skills:** Scientific communication, Training, Data driven research, Knowledge transfer, Solving problems, Analytical thinking, Interdisciplinary collaboration
 
 ---
 
